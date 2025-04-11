@@ -1,0 +1,10 @@
+AOC (cert): 1SWA+YcD2q8cQpT58XJ5kQqlni3i6g3mkNuIFr646MM=
+
+This certificate contains a secondary encrypted identifier, secured with AES-256.
+We encrypt non-primary handles as part of our operational hygiene—minimizing surface-level correlation and protecting against passive metadata aggregation.
+
+For verification of identity or additional context, please reach out directly to the administrator. They are authorized to validate affiliations and issue confirmations as needed.
+
+The content presented within this project does not reflect the full capabilities or intentions of the group.
+This work represents an individual member’s ongoing exploration of Python for educational purposes and skill development only.
+
