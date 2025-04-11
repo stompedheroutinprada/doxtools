@@ -1,3 +1,3 @@
 ## THIS IS A JOKE
-I made this for fun, does not do anything malicious
+This was purely made for fun, it DOES NOT do anything malicious
 only requirement is opencv-python
